@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning App Development 
 
 - 📫 How to reach me 
--- Call me 9158713568 or
--- gmail Kalsaitsandip91@gmail.com
+ Call me 9158713568 or
+ Gmail Kalsaitsandip91@gmail.com
 
 <!---
 sandipkalsait/sandipkalsait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
