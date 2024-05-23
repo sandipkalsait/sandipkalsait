@@ -4,11 +4,11 @@
 I am a seasoned professional with diverse experience in IT support, full-stack development, and cloud technologies. I started my career as an IT Support Specialist, providing technical assistance and maintaining server infrastructure. Currently, I work as a Full Stack Developer at TCS, where I leverage my skills in Python, Angular, Node.js, and Java to develop robust and scalable applications. Additionally, I have experience with Oracle SQL databases, Linux administration, and cloud-based solutions.
 
 ## 🛠 Skills and Technologies
-- **Languages:** Python, JavaScript, Java, PHP
-- **Frontend Development:** Angular, React, jQuery, HTML, CSS
-- **Backend Development:** Node.js, Express.js, Flask, Django
-- **Databases:** Oracle SQL, MySQL, MongoDB
-- **Cloud Technologies:** AWS, Azure, Google Cloud
+- **Languages:** Java, JavaScript, Python, PHP, C/C++
+- **Frontend Development:** Angular, React, HTML, CSS
+- **Backend Development:** Node.js, Express.js, Spring Boot, Next.js
+- **Databases:** Oracle SQL, MySQL, MongoDB, PostgreSQL
+- **Cloud Technologies:**  Azure, Google Cloud
 - **Other:** Linux Administration, Server Maintenance, IT Support
 
 ## 🌱 Current Learning
