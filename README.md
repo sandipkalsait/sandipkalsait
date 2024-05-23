@@ -12,7 +12,7 @@ I am a seasoned professional with diverse experience in IT support, full-stack d
 - **Other:** Linux Administration, Server Maintenance, IT Support
 
 ## 🌱 Current Learning
-I am continuously expanding my knowledge in cloud technologies, particularly focusing on AWS and Azure, to enhance my skills in building scalable and resilient applications in the cloud environment.
+I am continuously expanding my knowledge in cloud technologies, particularly focusing on Google Cloud and Azure, to enhance my skills in building scalable and resilient applications in the cloud environment.
 
 ## 💼 Professional Experience
 - **Full Stack Developer** at TCS (December 2021 - Present)
