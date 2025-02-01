@@ -1,39 +1,78 @@
 # 👋 Hi, I’m Sandip Kalsait
 
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+GitHub+Profile..&hearts;++;Cloud+Infrastructure+Architect,;DevOps+Automation+Specialist,;Containerization+Expert,;AI/ML+Enthusiast,;Open-Source+Contributor+<3"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## 👨‍💻 About Me
-I am a seasoned professional with diverse experience in IT support, full-stack development, and cloud technologies. I started my career as an IT Support Specialist, providing technical assistance and maintaining server infrastructure. Currently, I work as a Full Stack Developer at TCS, where I leverage my skills in Python, Angular, Node.js, and Java to develop robust and scalable applications. Additionally, I have experience with Oracle SQL databases, Linux administration, and cloud-based solutions.
+I’m a **System Engineer** passionate about building scalable cloud infrastructure, automating CI/CD workflows, and optimizing distributed systems. My expertise spans **container orchestration**, **infrastructure-as-code (IaC)**, and **AI-powered application development**. I thrive on solving complex infrastructure challenges using tools like **Kubernetes**, **Docker**, **Azure DevOps**, and **Grafana**, while also contributing to open-source AI frameworks.
 
-## 🛠 Skills and Technologies
-- **Languages:** Java, JavaScript, Python, PHP, C/C++
-- **Frontend Development:** Angular, React, HTML, CSS
-- **Backend Development:** Node.js, Express.js, Spring Boot, Next.js
-- **Databases:** Oracle SQL, MySQL, MongoDB, PostgreSQL
-- **Cloud Technologies:**  Azure, Google Cloud
-- **Other:** Linux Administration, Server Maintenance, IT Support
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🌱 Current Learning
-I am continuously expanding my knowledge in cloud technologies, particularly focusing on Google Cloud and Azure, to enhance my skills in building scalable and resilient applications in the cloud environment.
+## 🛠 Core Expertise  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+- **Cloud & DevOps:** AWS, Azure, GCP, Terraform, Docker, Kubernetes, Helm, Azure DevOps
+- **CI/CD Automation:** Jenkins, Git, Bitbucket, GitHub Actions
+- **Languages:** Java, Python, JavaScript, C++, Bash
+- **AI/ML Frameworks:** Neural Networks, Tokenization, Embeddings (via **Toffy**)
+- **Monitoring:** Grafana, Eureka, Prometheus
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle SQL
+- **Frontend:** React, Vite, HTML/CSS
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 🚀 Highlighted Projects
+
+### **Toffy AI** | [GitHub](https://github.com/sandipkalsait/toffy-console)
+- Built a **lightweight AI** in **C++** for neural networks, tokenization, and attention mechanisms.
+- Modular design for language model experimentation.
+- **Tech Stack:** C++, Apache License 2.0
+
+### **Eureka Service** | [GitHub](https://github.com/sandipkalsait/eureka-service)
+- Containerized service registry for dynamic cloud environments.
+- **Tech Stack:** Docker, Kubernetes, Service Discovery
+
+### **Employee & Auth Microservices** | [Java](https://github.com/sandipkalsait/employee-service) | [Java](https://github.com/sandipkalsait/auth-service-lite)
+- Developed scalable microservices for enterprise applications.
+- **Tech Stack:** Java, Spring Boot, REST APIs
+
+### **Crypto Dashboard** | [GitHub](https://github.com/sandipkalsait/crypto-dashboard)
+- Real-time cryptocurrency tracking dashboard with React.
+- **Tech Stack:** JavaScript, React, MIT License
+
+### **Cloud Infrastructure Automation**
+- Automated IaC deployments on Azure with **40% faster provisioning**.
+- **Tech Stack:** Terraform, Kubernetes, Grafana
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 💼 Professional Experience
-- **Full Stack Developer** at TCS (December 2021 - Present)
-  - Develop and maintain full-stack applications using Python, Angular, Node.js, and Java.
-  - Collaborate with cross-functional teams to deliver high-quality software solutions.
-  - Utilize Oracle SQL for database management and optimization.
-- **IT Support Specialist** at TCS (Previous Role)
-  - Provided technical support to end-users, troubleshooting hardware and software issues.
-  - Managed server infrastructure, including Linux administration and cloud-based solutions.
-  - Implemented security measures and conducted regular system audits to ensure data integrity.
+- **Senior System Engineer**  
+  - Led **cloud-native infrastructure** design using Kubernetes and AWS/Azure.
+  - Automated CI/CD pipelines, reducing deployment time by **40%**.
+  - Migrated legacy systems to containerized environments with **99.9% uptime**.
+- **System Engineer**  
+  - Developed Java-based microservices with **70% performance optimization**.
+  - Implemented monitoring solutions using Grafana and Eureka.
 
-## 🌟 Internship Experience
-- **Full Stack Developer Intern** at Techsymric Technologies (Dates)
-  - Designed and developed web applications using PHP, MySQL, JavaScript (jQuery), HTML, and CSS.
-  - Worked on various stages of the software development life cycle, from requirements gathering to deployment.
-  - Gained practical experience in building responsive and user-friendly interfaces.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📫 Contact Me
-- **Phone:** +91 9158713568
-- **Email:** [kalsaitsandip91@gmail.com](mailto:kalsaitsandip91@gmail.com)
-- **LinkedIn:** [Sandip Kalsait's LinkedIn Profile](https://www.linkedin.com/in/sandipkalsait)
+## 📚 Education & Certifications
+- **B.Sc. in Computer Science**  
+  *Modern College of Art, Science and Commerce, Pune* | GPA: 6.88  
+- **Certifications:**  
+  - Software Engineering Fundamentals
+  - React Frontend Development
 
-## 💞️ Collaboration
-I am open to collaborating on projects that leverage my skills and allow me to contribute to innovative solutions. Let's connect and create something remarkable together!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 📫 Let's Connect
+- **Email:** [kalsaitsandip91@gmail.com](mailto:kalsaitsandip91@gmail.com)  
+- **LinkedIn:** [Sandip Kalsait](https://www.linkedin.com/in/sandipkalsait)  
+- **Portfolio:** [GitHub Portfolio](https://github.com/sandipkalsait)  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 🌟 Collaboration
+I’m open to collaborating on **cloud infrastructure**, **DevOps tools**, or **AI/ML projects**. Let’s build scalable, intelligent systems!  
