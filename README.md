@@ -4,12 +4,13 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+GitHub+Profile..&hearts;++;Cloud+Infrastructure+Architect,;DevOps+Automation+Specialist,;Containerization+Expert,;AI/ML+Enthusiast,;Open-Source+Contributor+<3"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
+
 
 ## 👨‍💻 About Me
 I’m a **System Engineer** passionate about building scalable cloud infrastructure, automating CI/CD workflows, and optimizing distributed systems. My expertise spans **container orchestration**, **infrastructure-as-code (IaC)**, and **AI-powered application development**. I thrive on solving complex infrastructure challenges using tools like **Kubernetes**, **Docker**, **Azure DevOps**, and **Grafana**, while also contributing to open-source AI frameworks.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 🛠 Core Expertise  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 - **Cloud & DevOps:** AWS, Azure, GCP, Terraform, Docker, Kubernetes, Helm, Azure DevOps
@@ -20,7 +21,7 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
 - **Databases:** PostgreSQL, MySQL, MongoDB, Oracle SQL
 - **Frontend:** React, Vite, HTML/CSS
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 🚀 Highlighted Projects
 
@@ -45,7 +46,7 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
 - Automated IaC deployments on Azure with **40% faster provisioning**.
 - **Tech Stack:** Terraform, Kubernetes, Grafana
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 💼 Professional Experience
 - **Senior System Engineer**  
@@ -56,7 +57,7 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
   - Developed Java-based microservices with **70% performance optimization**.
   - Implemented monitoring solutions using Grafana and Eureka.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 📚 Education & Certifications
 - **B.Sc. in Computer Science**  
@@ -65,12 +66,14 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
   - Software Engineering Fundamentals
   - React Frontend Development
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 📫 Let's Connect
+-
+- **My Portfolio:**[Sandip Kalsait](https://sandipkalsait.github.io/sandipkalsait) 
 - **Email:** [kalsaitsandip91@gmail.com](mailto:kalsaitsandip91@gmail.com)  
 - **LinkedIn:** [Sandip Kalsait](https://www.linkedin.com/in/sandipkalsait)  
-- **Portfolio:** [GitHub Portfolio](https://github.com/sandipkalsait)  
+- **Portfolio:** [GitHub Portfolio](https://github.com/sandipkalsait)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
