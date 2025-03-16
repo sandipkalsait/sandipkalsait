@@ -69,8 +69,8 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 📫 Let's Connect
--
-- **My Portfolio:**[Sandip Kalsait](https://sandipkalsait.github.io/sandipkalsait) 
+
+- **My Portfolio:** [Sandip Kalsait](https://sandipkalsait.github.io/sandipkalsait) 
 - **Email:** [kalsaitsandip91@gmail.com](mailto:kalsaitsandip91@gmail.com)  
 - **LinkedIn:** [Sandip Kalsait](https://www.linkedin.com/in/sandipkalsait)  
 - **Portfolio:** [GitHub Portfolio](https://github.com/sandipkalsait)
