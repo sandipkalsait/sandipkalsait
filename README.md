@@ -70,10 +70,10 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
 
 ## 📫 Let's Connect
 
-- **My Portfolio:** [Sandip Kalsait](https://sandipkalsait.github.io/sandipkalsait) 
-- **Email:** [kalsaitsandip91@gmail.com](mailto:kalsaitsandip91@gmail.com)  
-- **LinkedIn:** [Sandip Kalsait](https://www.linkedin.com/in/sandipkalsait)  
-- **Portfolio:** [GitHub Portfolio](https://github.com/sandipkalsait)
+- **Visit My Portfolio:** [Sandip Kalsait](https://sandipkalsait.github.io/sandipkalsait) 
+- **Drop Email:** [kalsaitsandip91@gmail.com](mailto:kalsaitsandip91@gmail.com)  
+- **Visit My LinkedIn:** [Sandip Kalsait](https://www.linkedin.com/in/sandipkalsait)  
+- **My Github Portfolio:** [GitHub Portfolio](https://github.com/sandipkalsait)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
