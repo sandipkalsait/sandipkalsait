@@ -13,7 +13,7 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #aaa, #333, #aaa);" />
 
 ## 🛠 Core Expertise  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-- **Cloud & DevOps:** AWS, Azure, GCP, Terraform, Docker, Kubernetes, Helm, Azure DevOps
+- **Cloud & DevOps:**  Azure, GCP, Terraform, Docker, Kubernetes, Helm, Azure DevOps
 - **CI/CD Automation:** Jenkins, Git, Bitbucket, GitHub Actions
 - **Languages:** Java, Python, JavaScript, C++, Bash
 - **AI/ML Frameworks:** Neural Networks, Tokenization, Embeddings (via **Toffy**)
@@ -50,7 +50,7 @@ I’m a **System Engineer** passionate about building scalable cloud infrastruct
 
 ## 💼 Professional Experience
 - **Senior System Engineer**  
-  - Led **cloud-native infrastructure** design using Kubernetes and AWS/Azure.
+  - Led **cloud-native infrastructure** design using Kubernetes and Azure.
   - Automated CI/CD pipelines, reducing deployment time by **40%**.
   - Migrated legacy systems to containerized environments with **99.9% uptime**.
 - **System Engineer**  
